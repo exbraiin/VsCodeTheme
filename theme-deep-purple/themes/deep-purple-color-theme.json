@@ -8,6 +8,7 @@
     "colors": {
         "editor.background": "#262335",
         "editor.foreground": "#E8E5FF",
+        "editorRuler.foreground": "#35314c",
         "panel.background": "#262335",
         "menubar.selectionForeground": "#E8E5FF",
         "menubar.selectionBackground": "#35314C",
