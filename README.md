@@ -13,15 +13,8 @@ Some dart code and editor images as example:<br><br>
 
 ## How to install
 
-You can download the [VSIX](theme-deep-purple/theme-deep-purple-1.0.0.vsix) file and install it through the extensions panel.<br>
+1. You can download the [VSIX](theme-deep-purple/theme-deep-purple-1.0.0.vsix) file and install it through the extensions panel.<br>
 Press the options button ("...") and click "Install from VSIX".
 
-## How to pack the theme
-
-*This is here so I dont forget how to package the theme again.*
-
-Package theme:
-1. npm i -g vsce
-2. vsce package
-
+2. You can also check the [Marketplace](https://marketplace.visualstudio.com/items?itemName=ExBrain.nighty-purple) for this extension
 

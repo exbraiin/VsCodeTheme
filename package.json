@@ -4,7 +4,7 @@
     "displayName": "Nighty Purple",
     "description": "Nighty Purple theme for Visual Studio Code",
     "publisher": "ExBrain",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "WTF",
     "engines": {
         "vscode": "*"
