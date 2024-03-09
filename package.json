@@ -9,7 +9,12 @@
     "engines": {
         "vscode": "*"
     },
-    "repository": {},
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "url": "https://github.com/exbraiin/VsCodeTheme"
+    },
     "contributes": {
         "themes": [
             {
