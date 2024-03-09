@@ -5,7 +5,7 @@ However it may work fine with other languages.
 
 ## Example
 
-Here are some image of the theme.
+Here are some images of the theme.
 
 Some dart code and editor images as example:<br><br>
 <img style="height:300px" src="images/code.png"/>
@@ -15,8 +15,6 @@ Some dart code and editor images as example:<br><br>
 
 You can download the [VSIX](theme-deep-purple/theme-deep-purple-1.0.0.vsix) file and install it through the extensions panel.<br>
 Press the options button ("...") and click "Install from VSIX".
-
-*I don't pretend to publish this theme to the vscode market.*
 
 ## How to pack the theme
 

@@ -1,10 +1,10 @@
 {
-    "name": "theme-deep-purple",
-    "icon": "%displayIcon%",
-    "displayName": "%displayName%",
-    "description": "%description%",
-    "version": "1.0.0",
+    "name": "nighty-purple",
+    "icon": "icons/icon.jpg",
+    "displayName": "Nighty Purple",
+    "description": "Nighty Purple theme for Visual Studio Code",
     "publisher": "ExBrain",
+    "version": "1.0.0",
     "license": "WTF",
     "engines": {
         "vscode": "*"
@@ -18,10 +18,10 @@
     "contributes": {
         "themes": [
             {
-                "id": "Deep-Purple",
-                "label": "%themeLabel%",
+                "id": "nighty-purple",
+                "label": "Nighty Purple",
                 "uiTheme": "vs-dark",
-                "path": "./themes/deep-purple-color-theme.json"
+                "path": "./themes/nighty-purple-color-theme.json"
             }
         ]
     }
